@@ -4,7 +4,7 @@ This project simulates a real-world retail analytics engagement conducted as par
 
 ---
 
-## 📌 Project Summary
+##  Project Summary
 
 **Client:** Fictional FMCG Retailer  
 **Category:** Chips  
@@ -12,7 +12,7 @@ This project simulates a real-world retail analytics engagement conducted as par
 
 ---
 
-## 🧠 Business Challenges Addressed
+##  Business Challenges Addressed
 
 1. **Which customer segments are most valuable to the chips category?**
 2. **What pack sizes and products resonate with high-performing segments?**
@@ -20,7 +20,7 @@ This project simulates a real-world retail analytics engagement conducted as par
 
 ---
 
-## 💡 Actionable Insights & Recommendations
+##  Actionable Insights & Recommendations
 
 - **Customer Segmentation**
   - **Mainstream young singles/couples** emerged as the most lucrative segment, contributing over **35% of total category revenue**.
@@ -38,9 +38,9 @@ This project simulates a real-world retail analytics engagement conducted as par
 
 ---
 
-## 🔍 Methodology
+##  Methodology
 
-### ✅ Task 1: Customer Analytics
+###  Task 1: Customer Analytics
 - Grouped customers by **life stage** and **affluence level**.
 - Quantified total sales contribution and pack size preferences by segment.
 - Identified high-potential segments for targeted marketing efforts.
@@ -50,14 +50,14 @@ This project simulates a real-world retail analytics engagement conducted as par
 - Detected **seasonal purchasing behavior**, with spikes during December holidays.
 - Analyzed alignment between product strategy and segment demand.
 
-### ✅ Task 3: Experimental Trial Evaluation
+###  Task 3: Experimental Trial Evaluation
 - Compared sales performance of the **trial store** against **three control stores**.
 - Used **A/B testing principles** and **p-value analysis** to measure statistical significance.
 - Delivered data-backed insights on trial impact and scalability potential.
 
 ---
 
-## 🛠️ Tools & Techniques
+##  Tools & Techniques
 
 - **Microsoft Excel**: Data wrangling, PivotTables, aggregation, segmentation analysis
 - **PowerPoint**: Executive presentation deck highlighting key findings
@@ -66,7 +66,7 @@ This project simulates a real-world retail analytics engagement conducted as par
 
 ---
 
-## 📈 Results Summary
+##  Results Summary
 
 | Focus Area           | Key Finding                                               |
 |----------------------|-----------------------------------------------------------|
