@@ -45,7 +45,7 @@ This project simulates a real-world retail analytics engagement conducted as par
 - Quantified total sales contribution and pack size preferences by segment.
 - Identified high-potential segments for targeted marketing efforts.
 
-### ✅ Task 2: Product Performance Analysis
+###  Task 2: Product Performance Analysis
 - Assessed transaction patterns and SKU-level sales performance.
 - Detected **seasonal purchasing behavior**, with spikes during December holidays.
 - Analyzed alignment between product strategy and segment demand.
@@ -77,11 +77,11 @@ This project simulates a real-world retail analytics engagement conducted as par
 
 ---
 
-## 📂 Deliverables
+##  Deliverables
 
-- 📄 `Chips_sales_strategy_customer_insights.pdf` – Final business presentation deck
-- 📊 Analysis artifacts (Excel calculations and data segmentation)
-- 🧠 Strategic recommendations for marketing and SKU planning
+-  `Chips_sales_strategy_customer_insights.pdf` – Final business presentation deck
+-   Analysis artifacts (Excel calculations and data segmentation)
+-   Strategic recommendations for marketing and SKU planning
 
 ---
 
